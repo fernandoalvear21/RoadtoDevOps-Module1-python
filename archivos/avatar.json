@@ -1,0 +1,60 @@
+{
+  "personajes": [
+    {
+      "nombre": "Aang",
+      "nacion": "Nómadas del Aire",
+      "elemento": "Aire",
+      "edad": 12,
+      "descripcion": "El último Maestro Aire y el Avatar, destinado a mantener el equilibrio entre las cuatro naciones.",
+      "alias": "El Avatar"
+    },
+    {
+      "nombre": "Katara",
+      "nacion": "Tribu Agua del Sur",
+      "elemento": "Agua",
+      "edad": 14,
+      "descripcion": "Una maestra agua y la última maestra agua de la Tribu Agua del Sur. Es compasiva y decidida.",
+      "alias": null
+    },
+    {
+      "nombre": "Sokka",
+      "nacion": "Tribu Agua del Sur",
+      "elemento": null,
+      "edad": 15,
+      "descripcion": "Un guerrero ingenioso y estratega, hermano de Katara. No tiene habilidades de control de elementos.",
+      "alias": null
+    },
+    {
+      "nombre": "Toph",
+      "nacion": "Reino Tierra",
+      "elemento": "Tierra",
+      "edad": 12,
+      "descripcion": "Una maestra tierra ciega que inventó el control de metal. Es fuerte, independiente y sarcástica.",
+      "alias": "La Bandida Ciega"
+    },
+    {
+      "nombre": "Zuko",
+      "nacion": "Nación del Fuego",
+      "elemento": "Fuego",
+      "edad": 16,
+      "descripcion": "Príncipe exiliado de la Nación del Fuego en busca de redención. Más tarde se convierte en aliado del Avatar.",
+      "alias": "El Príncipe Exiliado"
+    },
+    {
+      "nombre": "Iroh",
+      "nacion": "Nación del Fuego",
+      "elemento": "Fuego",
+      "edad": 60,
+      "descripcion": "Tío de Zuko y un antiguo general de la Nación del Fuego. Es sabio, amable y un maestro de fuego excepcional.",
+      "alias": "El Dragón del Oeste"
+    },
+    {
+      "nombre": "Azula",
+      "nacion": "Nación del Fuego",
+      "elemento": "Fuego",
+      "edad": 14,
+      "descripcion": "Princesa de la Nación del Fuego y hermana menor de Zuko. Es manipuladora, poderosa y obsesionada con el control.",
+      "alias": null
+    }
+  ]
+}
