@@ -18,6 +18,9 @@ Este repositorio contiene los proyectos y ejercicios realizados durante el Módu
    - Script que lee un archivo JSON, lo convierte a YAML y lo guarda en otro archivo.
    - Archivos:
      - `json_yaml.py`: Script principal.
+     - `variables.py`: Script de práctica para manejo de variables.
+     - `condition.py`: Script de práctica para manejo de condiciones.
+     - `loops.py`: Script de práctica para manejo de bucles.
      - `/archivos/avatar.json`: Archivo JSON de entrada.
      - `/archivos/avatar.yaml`: Archivo YAML de salida.
 
