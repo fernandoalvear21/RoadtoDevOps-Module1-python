@@ -8,14 +8,16 @@ Este repositorio contiene los proyectos y ejercicios realizados durante el Módu
 
 ## Objetivos del Módulo
 - Aprender los conceptos básicos de Python.
-- Configurar un entorno de desarrollo en macOS.
+- Configurar un entorno virtual de desarrollo.
 - Automatizar tareas básicas con Python.
+
+
 
 ## Proyectos
 1. **Conversión de JSON a YAML**:
    - Script que lee un archivo JSON, lo convierte a YAML y lo guarda en otro archivo.
    - Archivos:
-     - `json_a_yaml.py`: Script principal.
+     - `json_yaml.py`: Script principal.
      - `/archivos/avatar.json`: Archivo JSON de entrada.
      - `/archivos/avatar.yaml`: Archivo YAML de salida.
 
@@ -30,4 +32,4 @@ Este repositorio contiene los proyectos y ejercicios realizados durante el Módu
 
 3. Ejecutar el script: 
     ```bash
-    python main.py
+    python json_yaml.py
